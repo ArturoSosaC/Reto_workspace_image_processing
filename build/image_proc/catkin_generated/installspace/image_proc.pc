@@ -1,0 +1,8 @@
+prefix=/home/inigo/Reto_workspace_image_processing/install
+
+Name: image_proc
+Description: Description of image_proc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+image_proc:puzzlebot_control:puzzlebot_gazebo:puzzlebot_world
+-DCATKIN_DEVEL_PREFIX=/home/inigo/Reto_workspace_image_processing/devel -DCMAKE_INSTALL_PREFIX=/home/inigo/Reto_workspace_image_processing/install -G Unix Makefiles
